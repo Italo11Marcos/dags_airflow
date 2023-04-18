@@ -18,7 +18,6 @@ Foi utilizado o ``PostgresOperator`` para a comunicação com o banco de dados
 * Melhorar a lógica para quando ocorrer um empate na fase mata-mata, incluindo os penaltis.
 * Deixar os códigos sql em uma pasta separada e chamar somente o arquivo. (A dag contém 2k de linhas)
 * Melhorar a ingestão das seleções para a Copa do Mundo. (Contém somente as 32 da copa de 2022)
-* Melhorar 
 
 
 ## Prints
